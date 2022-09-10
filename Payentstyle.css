@@ -1,0 +1,19 @@
+form>p{
+    color: blue; font-size: large; font-family: 'Times New Roman', Times, serif;
+}
+
+center h1{
+    color: white;
+    background-color:  forestgreen;
+    
+    padding: 20px;
+    border: 2px;
+    border-style: dotted;
+}
+center h2{
+    color: white;
+    background-color:  black;
+    padding: 20px;
+    border: 2px;
+    border-style: dotted;
+}
